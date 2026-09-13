@@ -5,8 +5,8 @@
 3. Configure git:
 
     ```
-    git config --global user.name "Samir Aly"
-    git config --global user.email "samir@gmail.com"
+    git config --global user.name "Your Name"
+    git config --global user.email "you@example.com"
     git config --global core.editor /path/to/editor
     ```
 
@@ -31,7 +31,7 @@
 ---
 
 # Preparing a remote repo on github:
-    
+
 1. create new repo on github
 2. create ssh key pair (public + private)
     https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent

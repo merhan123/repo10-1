@@ -1,13 +1,7 @@
-# Hello Git!
-## Subtitle 1
-This is an example file for showing what Git can do.
-## Subtitle 2
-Working on Feature 001
-Finshed Feature 001
+# Git collaboration workshop
 
-Working on feature 2!
-Adding some final touches ...
-Working on Feature 003
-More work!
+Practice files and instructions for a Git collaboration course (ITI intake 40).
 
-Final touches of f3
+Start with [the workshop steps](steps-1.md) to configure Git, initialize a repository, commit changes, connect a remote, and collaborate. `f001.html` and `f10.txt` are exercise files. No build system or application server is required.
+
+Use your own Git identity in the examples. Store SSH private keys in your local SSH directory, never in the repository. Review changes on a practice branch before pushing.
